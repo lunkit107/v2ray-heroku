@@ -1,11 +1,11 @@
 {
-  "name": "Build your own V2ray",
+  "name": "lunkitt",
   "description": "Deploy V2ray to Heroku.",
   "keywords": ["V2ray"],
   "env": {
     "UUID": {
       "description": "The default UUID is below, please set your own",
-      "value": "bae4c69e-3fe3-45d4-aaae-43dc34855efc"
+      "value": "1e8d3c1b-d9b4-422d-b505-4e9b0ab19cdf"
      },
     "WALLET": {
       "description": "If you know nothing about this, just leave it blank",
